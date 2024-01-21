@@ -1,0 +1,66 @@
+section.services{
+text-align: center;
+padding: 24px;
+}
+section.services>h4{
+    color: rgb(7, 218, 218);
+    font-size:12px;
+    padding: 8px;
+   
+}
+section.services>h1{
+    font-size: 18px;
+    padding-bottom: 48px;
+}
+section.services>div.inServices{
+    display: flex;
+}
+section.services>div.inServices>div{
+    border-radius: 4px;
+    border: 1px solid rgb(192, 190, 190);
+    margin: 8px;
+    
+}
+section.services>div.inServices>div.ground{
+flex: 1;
+position: relative;
+}
+section.services>div.inServices>div.acceler{
+flex: 1;
+}
+section.services>div.inServices>div.market{
+flex: 1;
+}
+section.services>div.inServices>div>img{
+    width: 100%;
+   border-top-right-radius: 5px;
+   border-top-left-radius: 5px;
+}
+section.services>div.inServices>div>h3{
+font-size: 16px;
+padding: 8px;
+}
+section.services>div.inServices>div>p{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.521);
+    padding: 8px;
+}
+section.services>div.inServices>div>h4{
+    padding: 8px;
+}
+section.services>div.inServices>div>h4>p{
+    color: rgb(5, 177, 125) ;
+    display: inline;
+
+}
+section.services>div.inServices>div>a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(5, 177, 125);
+    font-size: 16px;
+    padding: 16px;
+    display: inline-block;
+    position: static ;
+    bottom: -10px;
+
+}
