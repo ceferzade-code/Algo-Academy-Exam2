@@ -1,0 +1,63 @@
+
+section>div.intro{
+    display: flex;
+    padding: 24px;
+}
+section>div.intro>div.weOffer{
+    flex: 1;
+    padding: 24px;
+}
+section>div.intro>div.weOffer>h2{
+    color: rgb(9, 199, 199);
+    font-size: 10px;
+    padding-block: 8px;
+}
+section>div.intro>div.weOffer>h1{
+    padding-block: 8px;
+}
+section>div.intro>div.weOffer>p{
+    padding-block: 8px;
+    color: rgba(0, 0, 0, 0.61);
+    font-size: 14px;
+}
+section>div.intro>div.weOffer>h3{
+    font-size: 16px;
+}
+section>div.intro>div.wePhoto{
+    flex: 1;
+    padding: 24px;
+}
+section>div.intro>div.wePhoto>img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+section>div.icoElement{
+    display: flex;
+    padding: 102px 36px;
+}
+section>div.icoElement>div{
+    padding: 16px;
+}
+section>div.icoElement>div>h2{
+    font-size: 20px;
+    padding-block: 8px;
+}
+section>div.icoElement>div>p{
+    font-size: 14px;
+    line-height: 24px;
+}
+section>div.icoElement>div>i{
+    font-size: 36px;
+    color: rgb(5, 202, 202);
+}
+section>div.icoElement>div.analysis{
+    flex: 1;
+}
+section>div.icoElement>div.planning{
+    flex: 1;
+}
+section>div.icoElement>div.execution{
+    flex: 1;
+}
+
