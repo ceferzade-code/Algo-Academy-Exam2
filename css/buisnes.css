@@ -1,0 +1,26 @@
+div.buisnes{
+    background-image: url(../about.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 500px;
+    margin: 0;
+    
+}
+div.buisnes> div{
+  margin-inline: 36px;
+}
+div.buisnes> div> p{
+    padding: 16px 36px;
+}
+div.buisnes> div>h1{
+    padding-block: 36px;
+}
+div.buisnes>div>a{
+    background-color: rgb(4, 189, 189);
+    color: white;
+    text-decoration: none;
+    padding: 16px;
+    border-radius: 8px;
+    display: inline-block;
+}

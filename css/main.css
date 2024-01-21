@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+header{
+background-color: rgb(25, 25, 148);
+
+}
+header>a{
+color: rgb(255, 255, 255);
+text-decoration: none;
+padding: 16px;
+display:inline-block;
+font-size:12px;
+}
