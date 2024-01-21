@@ -24,3 +24,8 @@ div.buisnes>div>a{
     border-radius: 8px;
     display: inline-block;
 }
+div.buisnes>div>a:hover{
+    background-color: transparent;
+    border-radius: 2px solid rgb(4, 189, 189);
+    color:rgb(4, 189, 189) ;
+}

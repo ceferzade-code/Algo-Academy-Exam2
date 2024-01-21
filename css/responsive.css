@@ -1,0 +1,11 @@
+@media (max-width: 600px){
+    section>div.intro{
+        flex-direction: column;
+    }
+    section>div.icoElement{
+        flex-direction: column;
+    }
+    section.services>div.inServices{
+        flex-direction: column;
+    }
+}

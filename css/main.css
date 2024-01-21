@@ -3,7 +3,8 @@
     font-family: sans-serif;
 }
 header{
-background-color: rgb(25, 25, 148);
+background-color: rgb(37, 91, 141);
+display: flex;
 
 }
 header>a{
@@ -12,4 +13,8 @@ text-decoration: none;
 padding: 16px;
 display:inline-block;
 font-size:12px;
+flex: auto;
+}
+header>a:hover{
+    color: rgb(34, 172, 126);
 }
